@@ -83,17 +83,4 @@ public class ShippingController {
         return iShippingService.list(user.getId(),pageNum,pageSize);
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
